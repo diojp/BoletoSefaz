@@ -1,0 +1,1195 @@
+2025-08-14 15:02:16,846 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:16,907 [INFO] Consulta boleto 3038972097 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:17,714 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:17,781 [INFO] Consulta boleto 3038971809 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:18,642 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:18,747 [INFO] Consulta boleto 3038971810 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:19,609 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:19,742 [INFO] Consulta boleto 3038971811 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:20,602 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:20,718 [INFO] Consulta boleto 3038968857 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:21,537 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:21,597 [INFO] Consulta boleto 3038968732 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:22,394 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:22,456 [INFO] Consulta boleto 3038968181 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:23,315 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:23,391 [INFO] Consulta boleto 3038968084 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:24,267 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:24,345 [INFO] Consulta boleto 3038947560 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:25,188 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:25,253 [INFO] Consulta boleto 3038947559 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:26,125 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:26,192 [INFO] Consulta boleto 3038940777 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:27,099 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:27,233 [INFO] Consulta boleto 3038940558 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:28,102 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:28,206 [INFO] Consulta boleto 3038940558 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:29,065 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:29,161 [INFO] Consulta boleto 3038940558 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:29,996 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:30,107 [INFO] Consulta boleto 3038940555 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:30,902 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:30,956 [INFO] Consulta boleto 3038940555 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:31,793 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:31,863 [INFO] Consulta boleto 3038940555 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:32,719 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:32,829 [INFO] Consulta boleto 3038940552 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:33,652 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:33,718 [INFO] Consulta boleto 3038940552 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:34,525 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:34,586 [INFO] Consulta boleto 3038940552 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:35,399 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:35,461 [INFO] Consulta boleto 3038940356 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:36,299 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:36,372 [INFO] Consulta boleto 3038940356 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:37,275 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:37,382 [INFO] Consulta boleto 3038924808 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:38,191 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:38,258 [INFO] Consulta boleto 3038924801 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:39,059 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:39,115 [INFO] Consulta boleto 3038924802 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:39,927 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:39,986 [INFO] Consulta boleto 3038924800 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:40,809 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:40,881 [INFO] Consulta boleto 3038924584 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:41,679 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:41,739 [INFO] Consulta boleto 3038924585 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:42,602 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:42,740 [INFO] Consulta boleto 3038922798 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:43,561 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:43,661 [INFO] Consulta boleto 3038922791 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:44,471 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:44,538 [INFO] Consulta boleto 3038920460 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:45,343 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:45,399 [INFO] Consulta boleto 3038920457 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:46,222 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:46,277 [INFO] Consulta boleto 3038920458 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:47,147 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:47,240 [INFO] Consulta boleto 3038920454 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:48,105 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:48,224 [INFO] Consulta boleto 3038920453 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:49,025 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:49,077 [INFO] Consulta boleto 3038920451 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:49,884 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:49,939 [INFO] Consulta boleto 3038920450 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:50,805 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:50,955 [INFO] Consulta boleto 3038920456 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:51,756 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:51,804 [INFO] Consulta boleto 3038920452 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:52,735 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:52,837 [INFO] Consulta boleto 3038920455 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:53,641 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:53,699 [INFO] Consulta boleto 3038920448 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:54,583 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:54,714 [INFO] Consulta boleto 3038905754 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:55,580 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:55,689 [INFO] Consulta boleto 3038901245 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:56,540 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:56,638 [INFO] Consulta boleto 3038901240 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:57,470 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:57,555 [INFO] Consulta boleto 3038901239 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:58,359 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:58,437 [INFO] Consulta boleto 3038901238 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:02:59,226 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:02:59,282 [INFO] Consulta boleto 3038901241 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:00,153 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:00,292 [INFO] Consulta boleto 3038901237 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:01,136 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:01,256 [INFO] Consulta boleto 3038901242 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:02,080 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:02,145 [INFO] Consulta boleto 3038901235 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:02,955 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:03,012 [INFO] Consulta boleto 3038901230 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:03,862 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:03,968 [INFO] Consulta boleto 3038901229 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:04,755 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:04,806 [INFO] Consulta boleto 3038901222 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:05,646 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:05,753 [INFO] Consulta boleto 3038901216 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:06,579 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:06,629 [INFO] Consulta boleto 3038901223 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:07,483 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:07,544 [INFO] Consulta boleto 3038901220 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:08,424 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:08,527 [INFO] Consulta boleto 3038901216 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:09,405 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:09,491 [INFO] Consulta boleto 3038901218 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:10,317 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:10,369 [INFO] Consulta boleto 3038901224 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:11,206 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:11,266 [INFO] Consulta boleto 3038901221 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:12,085 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:12,140 [INFO] Consulta boleto 3038901222 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:13,022 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:13,079 [INFO] Consulta boleto 3038901218 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:13,911 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:13,962 [INFO] Consulta boleto 3038901220 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:14,830 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:14,888 [INFO] Consulta boleto 3038901223 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:15,704 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:15,774 [INFO] Consulta boleto 3038901221 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:16,635 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:16,687 [INFO] Consulta boleto 3038901224 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:17,636 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:17,765 [INFO] Consulta boleto 3038901202 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:18,589 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:18,638 [INFO] Consulta boleto 3038901203 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:19,490 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:19,544 [INFO] Consulta boleto 3038901205 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:20,384 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:20,441 [INFO] Consulta boleto 3038901204 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:21,334 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:21,439 [INFO] Consulta boleto 3038901206 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:22,308 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:22,382 [INFO] Consulta boleto 3038894993 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:23,281 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:23,426 [INFO] Consulta boleto 3038894360 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:24,226 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:24,286 [INFO] Consulta boleto 3038894367 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:25,227 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:25,335 [INFO] Consulta boleto 3038894372 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:26,215 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:26,339 [INFO] Consulta boleto 3038894382 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:27,179 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:27,230 [INFO] Consulta boleto 3038894379 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:28,090 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:28,189 [INFO] Consulta boleto 3038894369 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:29,082 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:29,186 [INFO] Consulta boleto 3038894376 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:30,015 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:30,070 [INFO] Consulta boleto 3038894363 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:30,978 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:31,085 [INFO] Consulta boleto 3038894387 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:31,938 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:32,017 [INFO] Consulta boleto 3038894353 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:32,839 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:32,895 [INFO] Consulta boleto 3038894354 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:33,706 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:33,775 [INFO] Consulta boleto 3038893986 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:34,649 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:34,733 [INFO] Consulta boleto 3038830739 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:35,554 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:35,606 [INFO] Consulta boleto 3038830738 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:36,438 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:36,513 [INFO] Consulta boleto 3038829462 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:37,459 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:37,562 [INFO] Consulta boleto 3038828131 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:38,393 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:38,448 [INFO] Consulta boleto 3038828131 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:39,345 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:39,441 [INFO] Consulta boleto 3038828131 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:40,306 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:40,366 [INFO] Consulta boleto 3038828129 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:41,236 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:41,348 [INFO] Consulta boleto 3038828129 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:42,224 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:42,353 [INFO] Consulta boleto 3038828129 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:43,208 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:43,307 [INFO] Consulta boleto 3038828120 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:44,183 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:44,263 [INFO] Consulta boleto 3038828120 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:45,082 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:45,144 [INFO] Consulta boleto 3038828120 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:45,947 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:46,009 [INFO] Consulta boleto 3038827904 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:46,833 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:46,889 [INFO] Consulta boleto 3038827896 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:47,726 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:47,781 [INFO] Consulta boleto 3038827891 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:48,712 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:48,820 [INFO] Consulta boleto 3038827874 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:49,661 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:49,711 [INFO] Consulta boleto 3038827873 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:50,554 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:50,611 [INFO] Consulta boleto 3038827868 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:51,436 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:51,499 [INFO] Consulta boleto 3038778646 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:52,317 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:52,373 [INFO] Consulta boleto 3038778647 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:53,186 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:53,257 [INFO] Consulta boleto 3038766721 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:54,070 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:54,132 [INFO] Consulta boleto 3038766728 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:54,944 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:54,995 [INFO] Consulta boleto 3038766713 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:55,799 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:55,863 [INFO] Consulta boleto 3038766735 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:56,733 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:56,832 [INFO] Consulta boleto 3038763349 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:57,710 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:57,784 [INFO] Consulta boleto 3038722804 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:58,638 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:58,701 [INFO] Consulta boleto 3038722803 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:03:59,538 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:03:59,591 [INFO] Consulta boleto 3038722802 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:00,429 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:00,489 [INFO] Consulta boleto 3038722793 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:01,297 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:01,363 [INFO] Consulta boleto 3038663304 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:02,212 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:02,307 [INFO] Consulta boleto 3038659982 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:03,156 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:03,825 [INFO] Consulta boleto 3038638830 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:04,644 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:04,704 [INFO] Consulta boleto 3038638828 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:05,528 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:05,610 [INFO] Consulta boleto 3038635258 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:06,420 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:06,477 [INFO] Consulta boleto 3038635259 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:07,309 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:07,371 [INFO] Consulta boleto 3038635257 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:08,198 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:08,258 [INFO] Consulta boleto 3038635256 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:09,085 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:09,156 [INFO] Consulta boleto 3038632844 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:09,965 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:10,028 [INFO] Consulta boleto 3038627607 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:10,962 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:11,065 [INFO] Consulta boleto 3038627541 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:11,958 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:12,070 [INFO] Consulta boleto 3038627528 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:12,989 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:13,079 [INFO] Consulta boleto 3038627521 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:13,937 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:14,052 [INFO] Consulta boleto 3038627527 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:14,895 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:14,956 [INFO] Consulta boleto 3038627529 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:15,807 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:15,859 [INFO] Consulta boleto 3038627524 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:16,705 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:16,760 [INFO] Consulta boleto 3038627531 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:17,598 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:17,652 [INFO] Consulta boleto 3038627523 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:18,485 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:18,541 [INFO] Consulta boleto 3038627522 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:19,393 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:19,452 [INFO] Consulta boleto 3038627532 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:20,294 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:20,349 [INFO] Consulta boleto 3038627526 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:21,223 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:21,265 [ERROR] Erro ao consultar boleto 3038627525
+Traceback (most recent call last):
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1428, in getresponse
+    response.begin()
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1428, in getresponse
+    response.begin()
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Codes\BoletoSefaz\services\boletos_service.py", line 43, in consultar_boleto_sefaz
+    response = client.service.consultarPagamento(elementoEntrada=param_xml)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\zeep\proxy.py", line 46, in __call__
+    return self._proxy._binding.send(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\zeep\wsdl\bindings\soap.py", line 127, in send
+    response = client.transport.post_xml(options["address"], envelope, http_headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\zeep\transports.py", line 108, in post_xml
+    return self.post(address, message, headers)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\zeep\transports.py", line 74, in post
+    response = self.session.post(
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\requests\sessions.py", line 637, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\requests\adapters.py", line 682, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-08-14 15:04:22,098 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:22,175 [INFO] Consulta boleto 3038627456 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:22,999 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:23,086 [INFO] Consulta boleto 3038625554 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:23,925 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:23,977 [INFO] Consulta boleto 3038625553 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:24,789 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:24,848 [INFO] Consulta boleto 3038625557 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:25,670 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:25,731 [INFO] Consulta boleto 3038625562 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:26,592 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:26,699 [INFO] Consulta boleto 3038625560 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:27,532 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:27,594 [INFO] Consulta boleto 3038625551 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:28,437 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:28,549 [INFO] Consulta boleto 3038625561 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:29,390 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:29,450 [INFO] Consulta boleto 3038625555 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:30,275 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:30,369 [INFO] Consulta boleto 3038625559 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:31,254 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:31,316 [INFO] Consulta boleto 3038625558 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:32,165 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:32,219 [INFO] Consulta boleto 3038625550 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:33,065 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:33,131 [INFO] Consulta boleto 3038625525 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:33,984 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:34,038 [INFO] Consulta boleto 3038625529 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:34,898 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:34,947 [INFO] Consulta boleto 3038625537 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:35,760 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:35,826 [INFO] Consulta boleto 3038625533 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:36,656 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:36,737 [INFO] Consulta boleto 3038625530 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:37,548 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:37,611 [INFO] Consulta boleto 3038625526 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:38,454 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:38,511 [INFO] Consulta boleto 3038625536 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:39,385 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:39,490 [INFO] Consulta boleto 3038625528 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:40,303 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:40,383 [INFO] Consulta boleto 3038625531 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:41,197 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:41,254 [INFO] Consulta boleto 3038625535 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:42,135 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:42,242 [INFO] Consulta boleto 3038625534 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:43,086 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:43,197 [INFO] Consulta boleto 3038598765 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:44,055 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:44,124 [INFO] Consulta boleto 3038598690 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:44,977 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:45,036 [INFO] Consulta boleto 3038598689 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:45,878 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:45,929 [INFO] Consulta boleto 3038598691 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:46,751 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:46,798 [INFO] Consulta boleto 3038598685 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:47,637 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:47,703 [INFO] Consulta boleto 3038598686 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:48,530 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:48,596 [INFO] Consulta boleto 3038598688 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:49,411 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:49,460 [INFO] Consulta boleto 3038598687 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:50,289 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:50,361 [INFO] Consulta boleto 3038598672 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:51,179 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:51,233 [INFO] Consulta boleto 3038598671 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:52,146 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:52,254 [INFO] Consulta boleto 3038598669 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:53,059 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:53,114 [INFO] Consulta boleto 3038598673 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:53,927 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:53,971 [INFO] Consulta boleto 3038598670 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:54,756 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:54,803 [INFO] Consulta boleto 3038598522 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:55,671 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:55,755 [INFO] Consulta boleto 3038598521 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:56,590 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:56,672 [INFO] Consulta boleto 3038598520 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:57,493 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:57,539 [INFO] Consulta boleto 3038598514 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:58,345 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:58,406 [INFO] Consulta boleto 3038598513 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:04:59,201 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:04:59,252 [INFO] Consulta boleto 3038598511 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:00,083 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:00,133 [INFO] Consulta boleto 3038598512 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:00,992 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:01,101 [INFO] Consulta boleto 3038598499 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:01,922 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:01,988 [INFO] Consulta boleto 3038598500 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:02,799 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:02,857 [INFO] Consulta boleto 3038598495 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:03,667 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:03,723 [INFO] Consulta boleto 3038598494 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:04,540 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:04,604 [INFO] Consulta boleto 3038598498 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:05,405 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:05,466 [INFO] Consulta boleto 3038598499 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:06,264 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:06,329 [INFO] Consulta boleto 3038598496 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:07,177 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:07,282 [INFO] Consulta boleto 3038598503 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:08,155 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:08,280 [INFO] Consulta boleto 3038598497 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:09,072 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:09,135 [INFO] Consulta boleto 3038598497 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:09,952 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:10,017 [INFO] Consulta boleto 3038598495 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:10,899 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:10,963 [INFO] Consulta boleto 3038598500 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:11,821 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:11,925 [INFO] Consulta boleto 3038598503 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:12,885 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:12,951 [INFO] Consulta boleto 3038598496 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:13,778 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:13,845 [INFO] Consulta boleto 3038598498 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:14,646 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:14,704 [INFO] Consulta boleto 3038598501 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:15,502 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:15,556 [INFO] Consulta boleto 3038598501 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:16,372 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:16,430 [INFO] Consulta boleto 3038598505 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:17,395 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:17,503 [INFO] Consulta boleto 3038598494 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:18,367 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:18,471 [INFO] Consulta boleto 3038598505 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:19,285 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:19,347 [INFO] Consulta boleto 3038583841 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:20,168 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:20,231 [INFO] Consulta boleto 3038583833 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:21,015 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:21,075 [INFO] Consulta boleto 3038583838 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:21,877 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:21,936 [INFO] Consulta boleto 3038583840 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:22,804 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:22,931 [INFO] Consulta boleto 3038583837 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:23,755 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:23,819 [INFO] Consulta boleto 3038583839 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:24,629 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:24,696 [INFO] Consulta boleto 3038582177 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:25,506 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:25,591 [INFO] Consulta boleto 3038582166 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:26,391 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:26,449 [INFO] Consulta boleto 3038582138 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:27,335 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:27,441 [INFO] Consulta boleto 3038582137 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:28,223 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:28,279 [INFO] Consulta boleto 3038582140 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:29,072 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:29,123 [INFO] Consulta boleto 3038582139 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:29,921 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:29,991 [INFO] Consulta boleto 3038579080 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:30,830 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:30,894 [INFO] Consulta boleto 3038579081 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:31,746 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:31,846 [INFO] Consulta boleto 3038579079 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:32,683 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:32,757 [INFO] Consulta boleto 3038577519 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:33,595 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:33,691 [INFO] Consulta boleto 3038576033 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:34,494 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:34,554 [INFO] Consulta boleto 3038576032 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:35,365 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:35,417 [INFO] Consulta boleto 3038576030 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:36,212 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:36,256 [INFO] Consulta boleto 3038576029 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:37,053 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:37,109 [INFO] Consulta boleto 3038576028 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:37,902 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:37,962 [INFO] Consulta boleto 3038576031 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:38,764 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:38,823 [INFO] Consulta boleto 3038550185 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:39,630 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:39,692 [INFO] Consulta boleto 3038548955 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:40,545 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:40,671 [INFO] Consulta boleto 3038548057 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:41,506 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:41,576 [INFO] Consulta boleto 3038548013 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:42,411 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:42,496 [INFO] Consulta boleto 3038548011 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:43,360 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:43,467 [INFO] Consulta boleto 3038548007 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:44,272 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:44,328 [INFO] Consulta boleto 3038548009 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:45,130 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:45,177 [INFO] Consulta boleto 3038548012 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:45,975 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:46,032 [INFO] Consulta boleto 3038548014 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:46,854 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:46,908 [INFO] Consulta boleto 3038547954 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:47,692 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:47,755 [INFO] Consulta boleto 3038546869 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:48,593 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:48,697 [INFO] Consulta boleto 3038545019 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:49,505 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:49,571 [INFO] Consulta boleto 3038543519 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:50,382 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:50,452 [INFO] Consulta boleto 3038539305 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:51,264 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:51,330 [INFO] Consulta boleto 3038539159 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:52,138 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:52,213 [INFO] Consulta boleto 3038521626 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:53,024 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:53,093 [INFO] Consulta boleto 3038520533 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:53,889 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:53,964 [INFO] Consulta boleto 3038518435 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:54,752 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:54,816 [INFO] Consulta boleto 3038518241 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:55,601 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:55,663 [INFO] Consulta boleto 3038518250 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:56,519 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:56,616 [INFO] Consulta boleto 3038518279 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:57,408 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:57,468 [INFO] Consulta boleto 3038518223 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:58,278 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:58,332 [INFO] Consulta boleto 3038518230 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:05:59,189 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:05:59,288 [INFO] Consulta boleto 3038518273 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:00,072 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:00,132 [INFO] Consulta boleto 3038518246 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:00,955 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:01,031 [INFO] Consulta boleto 3038518255 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:01,840 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:01,898 [INFO] Consulta boleto 3038518267 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:02,679 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:02,724 [INFO] Consulta boleto 3038518261 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:03,542 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:03,609 [INFO] Consulta boleto 3038518235 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:04,432 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:04,519 [INFO] Consulta boleto 3038517751 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:05,296 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:05,364 [INFO] Consulta boleto 3038504474 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:06,173 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:06,224 [INFO] Consulta boleto 3038504473 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:07,029 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:07,096 [INFO] Consulta boleto 3038502564 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:07,923 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:07,983 [INFO] Consulta boleto 3038502356 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:08,864 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:08,970 [INFO] Consulta boleto 3038502385 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:09,755 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:09,817 [INFO] Consulta boleto 3038502370 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:10,682 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:10,788 [INFO] Consulta boleto 3038502346 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:11,596 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:11,651 [INFO] Consulta boleto 3038502366 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:12,473 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:12,528 [INFO] Consulta boleto 3038502375 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:13,374 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:13,393 [ERROR] Erro ao consultar boleto 3038502380
+Traceback (most recent call last):
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1428, in getresponse
+    response.begin()
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1428, in getresponse
+    response.begin()
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Codes\BoletoSefaz\services\boletos_service.py", line 43, in consultar_boleto_sefaz
+    response = client.service.consultarPagamento(elementoEntrada=param_xml)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\zeep\proxy.py", line 46, in __call__
+    return self._proxy._binding.send(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\zeep\wsdl\bindings\soap.py", line 127, in send
+    response = client.transport.post_xml(options["address"], envelope, http_headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\zeep\transports.py", line 108, in post_xml
+    return self.post(address, message, headers)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\zeep\transports.py", line 74, in post
+    response = self.session.post(
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\requests\sessions.py", line 637, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\requests\adapters.py", line 682, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-08-14 15:06:14,251 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:14,349 [INFO] Consulta boleto 3038502341 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:15,168 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:15,234 [INFO] Consulta boleto 3038502390 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:16,094 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:16,152 [ERROR] Erro ao consultar boleto 3038502351
+Traceback (most recent call last):
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1428, in getresponse
+    response.begin()
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1428, in getresponse
+    response.begin()
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Codes\BoletoSefaz\services\boletos_service.py", line 43, in consultar_boleto_sefaz
+    response = client.service.consultarPagamento(elementoEntrada=param_xml)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\zeep\proxy.py", line 46, in __call__
+    return self._proxy._binding.send(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\zeep\wsdl\bindings\soap.py", line 127, in send
+    response = client.transport.post_xml(options["address"], envelope, http_headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\zeep\transports.py", line 108, in post_xml
+    return self.post(address, message, headers)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\zeep\transports.py", line 74, in post
+    response = self.session.post(
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\requests\sessions.py", line 637, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\requests\adapters.py", line 682, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-08-14 15:06:17,022 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:17,130 [INFO] Consulta boleto 3038502361 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:17,994 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:18,099 [INFO] Consulta boleto 3038501733 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:18,939 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:19,009 [INFO] Consulta boleto 3038498401 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:19,858 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:19,968 [INFO] Consulta boleto 3038477837 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:20,790 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:20,854 [INFO] Consulta boleto 3038470706 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:21,672 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:21,784 [INFO] Consulta boleto 3038470703 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:22,636 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:22,748 [INFO] Consulta boleto 3038470707 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:23,567 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:23,629 [INFO] Consulta boleto 3038470708 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:24,411 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:24,465 [INFO] Consulta boleto 3038470709 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:25,280 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:25,337 [INFO] Consulta boleto 3038470711 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:26,152 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:26,224 [INFO] Consulta boleto 3038470710 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:27,073 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:27,098 [ERROR] Erro ao consultar boleto 3038470712
+Traceback (most recent call last):
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1428, in getresponse
+    response.begin()
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1428, in getresponse
+    response.begin()
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Codes\BoletoSefaz\services\boletos_service.py", line 43, in consultar_boleto_sefaz
+    response = client.service.consultarPagamento(elementoEntrada=param_xml)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\zeep\proxy.py", line 46, in __call__
+    return self._proxy._binding.send(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\zeep\wsdl\bindings\soap.py", line 127, in send
+    response = client.transport.post_xml(options["address"], envelope, http_headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\zeep\transports.py", line 108, in post_xml
+    return self.post(address, message, headers)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\zeep\transports.py", line 74, in post
+    response = self.session.post(
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\requests\sessions.py", line 637, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\requests\adapters.py", line 682, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-08-14 15:06:27,911 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:27,968 [INFO] Consulta boleto 3038470704 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:28,824 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:28,925 [INFO] Consulta boleto 3038470714 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:29,747 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:29,809 [INFO] Consulta boleto 3038470705 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:30,627 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:30,698 [INFO] Consulta boleto 3038470696 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:31,514 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:31,578 [INFO] Consulta boleto 3038439922 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:32,394 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:32,457 [INFO] Consulta boleto 3038433257 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:33,283 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:33,355 [INFO] Consulta boleto 3038433260 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:34,174 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:34,238 [INFO] Consulta boleto 3038433259 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:35,040 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:35,093 [INFO] Consulta boleto 3038433258 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:35,964 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:36,070 [INFO] Consulta boleto 3038433262 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:36,887 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:36,944 [INFO] Consulta boleto 3038433261 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:37,796 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:37,891 [INFO] Consulta boleto 3038433256 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:38,738 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:38,813 [INFO] Consulta boleto 3038433263 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:39,614 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:39,671 [INFO] Consulta boleto 3038433255 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:40,477 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:40,538 [INFO] Consulta boleto 3038432753 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:41,743 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:41,861 [INFO] Consulta boleto 3038419193 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:42,997 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:43,106 [INFO] Consulta boleto 3038419192 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:43,909 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:43,968 [INFO] Consulta boleto 3038419194 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:44,766 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:44,817 [INFO] Consulta boleto 3038419191 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:45,599 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:45,650 [INFO] Consulta boleto 3038419190 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:46,476 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:46,549 [INFO] Consulta boleto 3038419175 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:47,358 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:47,414 [INFO] Consulta boleto 3038419174 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:48,221 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:48,283 [INFO] Consulta boleto 3038419172 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:49,101 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:49,185 [INFO] Consulta boleto 3038419173 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:50,043 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:50,161 [INFO] Consulta boleto 3038419142 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:50,970 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:51,032 [INFO] Consulta boleto 3038414582 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:51,900 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:52,003 [INFO] Consulta boleto 3038414584 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:52,830 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:52,890 [INFO] Consulta boleto 3038414520 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:53,759 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:53,863 [INFO] Consulta boleto 3038414517 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:54,684 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:54,742 [INFO] Consulta boleto 3038414523 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:55,615 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:55,678 [INFO] Consulta boleto 3038411755 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:56,543 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:56,687 [INFO] Consulta boleto 3038411306 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:57,499 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:57,560 [INFO] Consulta boleto 3038373721 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:06:58,370 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:58,378 [ERROR] Erro ao consultar boleto 3038373729
+Traceback (most recent call last):
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1428, in getresponse
+    response.begin()
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\urllib3\connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1428, in getresponse
+    response.begin()
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dio\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Codes\BoletoSefaz\services\boletos_service.py", line 43, in consultar_boleto_sefaz
+    response = client.service.consultarPagamento(elementoEntrada=param_xml)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\zeep\proxy.py", line 46, in __call__
+    return self._proxy._binding.send(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\zeep\wsdl\bindings\soap.py", line 127, in send
+    response = client.transport.post_xml(options["address"], envelope, http_headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\zeep\transports.py", line 108, in post_xml
+    return self.post(address, message, headers)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\zeep\transports.py", line 74, in post
+    response = self.session.post(
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\requests\sessions.py", line 637, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Codes\BoletoSefaz\.venv\Lib\site-packages\requests\adapters.py", line 682, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-08-14 15:06:59,224 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:06:59,324 [INFO] Consulta boleto 3038373725 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:00,176 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:00,241 [INFO] Consulta boleto 3038373727 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:01,050 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:01,110 [INFO] Consulta boleto 3038373728 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:01,943 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:01,996 [INFO] Consulta boleto 3038373724 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:02,801 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:02,867 [INFO] Consulta boleto 3038373726 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:03,739 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:03,842 [INFO] Consulta boleto 3038373719 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:05,665 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:05,715 [INFO] Consulta boleto 3038373722 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:06,518 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:06,577 [INFO] Consulta boleto 3038373723 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:07,396 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:07,464 [INFO] Consulta boleto 3038373720 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:08,359 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:08,481 [INFO] Consulta boleto 3038373715 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:09,279 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:09,367 [INFO] Consulta boleto 3038373709 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:10,206 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:10,288 [INFO] Consulta boleto 3038373705 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:11,148 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:11,248 [INFO] Consulta boleto 3038373712 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:12,047 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:12,103 [INFO] Consulta boleto 3038373714 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:12,973 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:13,066 [INFO] Consulta boleto 3038373713 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:13,897 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:14,015 [INFO] Consulta boleto 3038373711 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:14,857 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:14,941 [INFO] Consulta boleto 3038373716 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:15,781 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:15,895 [INFO] Consulta boleto 3038373707 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:17,024 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:17,132 [INFO] Consulta boleto 3038373710 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:17,941 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:17,994 [INFO] Consulta boleto 3038373706 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:18,794 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:18,842 [INFO] Consulta boleto 3038365517 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:19,693 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:19,775 [INFO] Consulta boleto 3038365516 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:20,574 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:20,639 [INFO] Consulta boleto 3038365515 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:21,480 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:21,588 [INFO] Consulta boleto 3038365514 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:22,403 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:22,482 [INFO] Consulta boleto 3038365512 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:23,344 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:23,449 [INFO] Consulta boleto 3038339588 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:24,258 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:24,341 [INFO] Consulta boleto 3038338682 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:25,194 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:25,301 [INFO] Consulta boleto 3038338678 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:26,110 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:26,154 [INFO] Consulta boleto 3038338684 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:26,956 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:27,015 [INFO] Consulta boleto 3038338683 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:27,889 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:27,995 [INFO] Consulta boleto 3038338679 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:28,768 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:28,814 [INFO] Consulta boleto 3038338676 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:29,660 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:29,731 [INFO] Consulta boleto 3038338681 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:30,513 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:30,566 [INFO] Consulta boleto 3038338681 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:31,385 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:31,450 [INFO] Consulta boleto 3038338677 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:32,316 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:32,422 [INFO] Consulta boleto 3038338677 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:33,212 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:33,261 [INFO] Consulta boleto 3038338684 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:34,120 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:34,230 [INFO] Consulta boleto 3038338678 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:35,042 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:35,091 [INFO] Consulta boleto 3038338680 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:35,886 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:35,942 [INFO] Consulta boleto 3038338680 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:36,800 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:36,880 [INFO] Consulta boleto 3038338682 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:37,689 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:37,754 [INFO] Consulta boleto 3038338676 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:38,616 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:38,717 [INFO] Consulta boleto 3038338683 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:39,534 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:39,611 [INFO] Consulta boleto 3038338679 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:40,474 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:40,599 [INFO] Consulta boleto 3038338031 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:41,466 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:41,576 [INFO] Consulta boleto 3038332208 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:42,406 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:42,466 [INFO] Consulta boleto 3038332205 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:43,280 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:43,355 [INFO] Consulta boleto 3038332055 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:44,178 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:44,251 [INFO] Consulta boleto 3038330168 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:45,063 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:45,118 [INFO] Consulta boleto 3038312588 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:45,985 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:46,095 [INFO] Consulta boleto 3038312587 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:46,926 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:47,023 [INFO] Consulta boleto 3038312586 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:47,831 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:47,895 [INFO] Consulta boleto 3038312515 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:48,683 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:48,740 [INFO] Consulta boleto 3038287061 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:49,587 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:49,719 [INFO] Consulta boleto 3038286546 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:07:50,588 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:07:50,705 [INFO] Consulta boleto 3038285120 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:28:33,175 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:28:33,236 [INFO] Consulta boleto 3038972097 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:28:34,058 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:28:34,163 [INFO] Consulta boleto 3038971809 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:28:34,957 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:28:35,008 [INFO] Consulta boleto 3038971810 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:28:35,872 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:28:35,987 [INFO] Consulta boleto 3038971811 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:28:36,862 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:28:36,995 [INFO] Consulta boleto 3038968857 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:28:37,804 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:28:37,858 [INFO] Consulta boleto 3038968732 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:28:38,708 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:28:38,820 [INFO] Consulta boleto 3038968181 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:28:39,615 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:28:39,755 [INFO] Consulta boleto 3038968084 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:28:40,556 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:28:40,623 [INFO] Consulta boleto 3038947560 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:28:41,466 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:28:41,553 [INFO] Consulta boleto 3038947559 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:28:42,409 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:28:42,534 [INFO] Consulta boleto 3038940777 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:28:43,420 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:28:43,558 [INFO] Consulta boleto 3038940558 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:28:44,407 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:28:44,522 [INFO] Consulta boleto 3038940558 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:28:45,390 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:28:45,495 [INFO] Consulta boleto 3038940558 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:28:46,299 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:28:46,353 [INFO] Consulta boleto 3038940555 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:28:47,170 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:28:47,225 [INFO] Consulta boleto 3038940555 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:28:48,002 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:28:48,051 [INFO] Consulta boleto 3038940555 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:28:48,902 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:29:16,633 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:29:16,690 [INFO] Consulta boleto 3038972097 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:29:17,541 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:29:17,657 [INFO] Consulta boleto 3038971809 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:29:18,457 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:29:18,511 [INFO] Consulta boleto 3038971810 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:29:19,295 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:29:19,346 [INFO] Consulta boleto 3038971811 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:29:20,161 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:29:20,227 [INFO] Consulta boleto 3038968857 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:29:21,049 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:29:21,111 [INFO] Consulta boleto 3038968732 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:29:21,923 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:29:21,983 [INFO] Consulta boleto 3038968181 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:29:22,788 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:29:22,851 [INFO] Consulta boleto 3038968084 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:29:23,708 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:29:23,804 [INFO] Consulta boleto 3038947560 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:29:24,612 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:29:24,667 [INFO] Consulta boleto 3038947559 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:29:25,453 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:29:25,506 [INFO] Consulta boleto 3038940777 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:29:26,310 [WARNING] Forcing soap:address location to HTTPS
+2025-08-14 15:29:26,370 [INFO] Consulta boleto 3038940558 - Status HTTP: Retry(total=0, connect=None, read=False, redirect=None, status=None)
+2025-08-14 15:29:27,147 [WARNING] Forcing soap:address location to HTTPS
